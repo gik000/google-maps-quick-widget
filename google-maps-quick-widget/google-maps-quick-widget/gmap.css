@@ -1,0 +1,7 @@
+.gmap_area{
+  width:100%;
+  height:344px;
+}
+.gmap_area img{
+  max-width:none;
+}
